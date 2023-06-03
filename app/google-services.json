@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "128621550566",
+    "firebase_url": "https://uas-frans-18411028-default-rtdb.firebaseio.com",
+    "project_id": "uas-frans-18411028",
+    "storage_bucket": "uas-frans-18411028.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:128621550566:android:1dc6fd7c86bd7e5f6c5427",
+        "android_client_info": {
+          "package_name": "com.example.uas_frans_18411028"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDgoItOIS-5vieb3WqkgJB6yuCWZ_O3JlY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
